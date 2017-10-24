@@ -1,0 +1,10 @@
+{
+  "name"         : "ejemploRSA",
+  "version"      : "0.0.1",
+  "main"         : "rsa.js",
+  "dependencies" : {
+    "express"    : "~3.4.4",
+    "mongoose"   : "~3.6.2",
+    "big-integer"    : ""
+  }
+}
